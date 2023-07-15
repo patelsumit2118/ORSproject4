@@ -1,0 +1,9 @@
+127.0.0.1 - - [26/May/2022:15:05:41 +0530] "GET / HTTP/1.1" 404 709
+0:0:0:0:0:0:0:1 - - [26/May/2022:15:05:43 +0530] "GET /ORS_Project4/ HTTP/1.1" 200 647
+0:0:0:0:0:0:0:1 - - [26/May/2022:15:05:43 +0530] "GET /ORS_Project4/img/logo.png HTTP/1.1" 404 931
+0:0:0:0:0:0:0:1 - - [26/May/2022:15:05:48 +0530] "GET /ORS_Project4/WelcomeCtl HTTP/1.1" 200 1262
+0:0:0:0:0:0:0:1 - - [26/May/2022:15:05:50 +0530] "GET /ORS_Project4/LoginCtl HTTP/1.1" 200 2548
+0:0:0:0:0:0:0:1 - - [26/May/2022:15:06:01 +0530] "POST /ORS_Project4/LoginCtl HTTP/1.1" 200 3314
+0:0:0:0:0:0:0:1 - - [26/May/2022:15:06:08 +0530] "GET /ORS_Project4/ctl/UserListCtl HTTP/1.1" 200 9717
+0:0:0:0:0:0:0:1 - - [26/May/2022:15:06:08 +0530] "GET /ORS_Project4/js/jquery.min.js HTTP/1.1" 200 95932
+0:0:0:0:0:0:0:1 - - [26/May/2022:15:06:08 +0530] "GET /ORS_Project4/js/Checkbox11.js HTTP/1.1" 200 606

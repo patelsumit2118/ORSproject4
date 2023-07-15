@@ -1,0 +1,9 @@
+127.0.0.1 - - [13/Jul/2022:14:39:31 +0530] "GET / HTTP/1.1" 404 709
+0:0:0:0:0:0:0:1 - - [13/Jul/2022:14:39:34 +0530] "GET /ORS_Project4/ HTTP/1.1" 200 647
+0:0:0:0:0:0:0:1 - - [13/Jul/2022:14:39:34 +0530] "GET /ORS_Project4/img/logo.png HTTP/1.1" 404 931
+0:0:0:0:0:0:0:1 - - [13/Jul/2022:14:39:56 +0530] "GET /ORS_Project4/WelcomeCtl HTTP/1.1" 200 1263
+0:0:0:0:0:0:0:1 - - [13/Jul/2022:14:39:58 +0530] "GET /ORS_Project4/LoginCtl HTTP/1.1" 200 2548
+0:0:0:0:0:0:0:1 - - [13/Jul/2022:14:39:58 +0530] "GET /ORS_Project4/LoginCtl HTTP/1.1" 200 2548
+0:0:0:0:0:0:0:1 - - [13/Jul/2022:14:40:13 +0530] "POST /ORS_Project4/LoginCtl HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [13/Jul/2022:14:40:13 +0530] "GET /ORS_Project4/WelcomeCtl HTTP/1.1" 200 3315
+0:0:0:0:0:0:0:1 - - [13/Jul/2022:14:40:18 +0530] "GET /ORS_Project4/ctl/MarksheetListCtl HTTP/1.1" 200 13878

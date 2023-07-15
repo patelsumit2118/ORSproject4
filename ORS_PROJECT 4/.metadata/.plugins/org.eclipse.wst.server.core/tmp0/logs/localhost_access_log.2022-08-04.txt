@@ -1,0 +1,15 @@
+127.0.0.1 - - [04/Aug/2022:13:05:31 +0530] "GET / HTTP/1.1" 404 709
+0:0:0:0:0:0:0:1 - - [04/Aug/2022:13:05:32 +0530] "GET /ORS_Project4/ HTTP/1.1" 200 647
+0:0:0:0:0:0:0:1 - - [04/Aug/2022:13:05:32 +0530] "GET /ORS_Project4/img/logo.png HTTP/1.1" 404 931
+0:0:0:0:0:0:0:1 - - [04/Aug/2022:13:05:35 +0530] "GET /ORS_Project4/WelcomeCtl HTTP/1.1" 200 1263
+0:0:0:0:0:0:0:1 - - [04/Aug/2022:13:05:37 +0530] "GET /ORS_Project4/LoginCtl HTTP/1.1" 200 2548
+0:0:0:0:0:0:0:1 - - [04/Aug/2022:13:05:52 +0530] "POST /ORS_Project4/LoginCtl HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [04/Aug/2022:13:05:52 +0530] "GET /ORS_Project4/WelcomeCtl HTTP/1.1" 200 3315
+0:0:0:0:0:0:0:1 - - [04/Aug/2022:13:06:00 +0530] "GET /ORS_Project4/ctl/UserListCtl HTTP/1.1" 200 9717
+0:0:0:0:0:0:0:1 - - [04/Aug/2022:13:06:00 +0530] "GET /ORS_Project4/js/jquery.min.js HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [04/Aug/2022:13:06:04 +0530] "GET /ORS_Project4/ctl/MarksheetListCtl HTTP/1.1" 200 13878
+0:0:0:0:0:0:0:1 - - [04/Aug/2022:13:06:29 +0530] "GET /ORS_Project4/ctl/UserListCtl HTTP/1.1" 200 9717
+0:0:0:0:0:0:0:1 - - [04/Aug/2022:13:07:14 +0530] "GET /ORS_Project4/ctl/UserCtl?id=7 HTTP/1.1" 200 8841
+0:0:0:0:0:0:0:1 - - [04/Aug/2022:13:07:14 +0530] "GET /resources/demos/style.css HTTP/1.1" 404 742
+0:0:0:0:0:0:0:1 - - [04/Aug/2022:13:07:21 +0530] "GET /ORS_Project4/ctl/UserListCtl HTTP/1.1" 200 9717
+0:0:0:0:0:0:0:1 - - [04/Aug/2022:13:32:22 +0530] "POST /ORS_Project4/ctl/UserListCtl HTTP/1.1" 200 9467

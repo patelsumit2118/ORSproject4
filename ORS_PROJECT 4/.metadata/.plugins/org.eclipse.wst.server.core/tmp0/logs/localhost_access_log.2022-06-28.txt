@@ -1,0 +1,12 @@
+127.0.0.1 - - [28/Jun/2022:17:19:57 +0530] "GET / HTTP/1.1" 404 709
+0:0:0:0:0:0:0:1 - - [28/Jun/2022:17:19:58 +0530] "GET /ORS_Project4/ HTTP/1.1" 200 647
+0:0:0:0:0:0:0:1 - - [28/Jun/2022:17:19:58 +0530] "GET /ORS_Project4/img/customLogo.jpg HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [28/Jun/2022:17:19:58 +0530] "GET /ORS_Project4/img/logo.png HTTP/1.1" 404 931
+0:0:0:0:0:0:0:1 - - [28/Jun/2022:17:20:00 +0530] "GET /ORS_Project4/WelcomeCtl HTTP/1.1" 200 1263
+127.0.0.1 - - [28/Jun/2022:17:29:27 +0530] "GET / HTTP/1.1" 404 709
+0:0:0:0:0:0:0:1 - - [28/Jun/2022:17:29:28 +0530] "GET /ORS_Project4/ HTTP/1.1" 200 647
+0:0:0:0:0:0:0:1 - - [28/Jun/2022:17:29:28 +0530] "GET /ORS_Project4/img/logo.png HTTP/1.1" 404 931
+0:0:0:0:0:0:0:1 - - [28/Jun/2022:17:29:30 +0530] "GET /ORS_Project4/WelcomeCtl HTTP/1.1" 200 1263
+0:0:0:0:0:0:0:1 - - [28/Jun/2022:17:29:33 +0530] "GET /ORS_Project4/LoginCtl HTTP/1.1" 200 2548
+0:0:0:0:0:0:0:1 - - [28/Jun/2022:17:29:36 +0530] "GET /ORS_Project4/ForgetPasswordCtl HTTP/1.1" 200 2451
+0:0:0:0:0:0:0:1 - - [28/Jun/2022:17:29:48 +0530] "POST /ORS_Project4/ForgetPasswordCtl HTTP/1.1" 200 2510

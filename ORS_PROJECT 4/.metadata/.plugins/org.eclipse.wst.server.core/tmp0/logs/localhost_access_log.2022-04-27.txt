@@ -1,0 +1,10 @@
+127.0.0.1 - - [27/Apr/2022:13:45:44 +0530] "GET / HTTP/1.1" 404 709
+0:0:0:0:0:0:0:1 - - [27/Apr/2022:13:45:48 +0530] "GET /ORS_Project4/ HTTP/1.1" 200 647
+0:0:0:0:0:0:0:1 - - [27/Apr/2022:13:45:48 +0530] "GET /ORS_Project4/img/logo.png HTTP/1.1" 404 931
+0:0:0:0:0:0:0:1 - - [27/Apr/2022:13:45:53 +0530] "GET /ORS_Project4/WelcomeCtl HTTP/1.1" 200 1262
+0:0:0:0:0:0:0:1 - - [27/Apr/2022:13:46:01 +0530] "GET /ORS_Project4/LoginCtl HTTP/1.1" 200 2548
+0:0:0:0:0:0:0:1 - - [27/Apr/2022:13:46:14 +0530] "GET /ORS_Project4/ForgetPasswordCtl HTTP/1.1" 200 2450
+0:0:0:0:0:0:0:1 - - [27/Apr/2022:13:48:55 +0530] "GET /ORS_Project4/ HTTP/1.1" 200 647
+127.0.0.1 - - [27/Apr/2022:14:04:36 +0530] "GET / HTTP/1.1" 404 709
+0:0:0:0:0:0:0:1 - - [27/Apr/2022:14:04:37 +0530] "GET /ORS_Project4/jsp/MyProfileView.jsp HTTP/1.1" 200 4084
+0:0:0:0:0:0:0:1 - - [27/Apr/2022:14:04:37 +0530] "GET /ORS_Project4/js/calendar.js HTTP/1.1" 404 931
